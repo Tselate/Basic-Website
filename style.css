@@ -8,13 +8,19 @@ body {
 
 h1 {
     background: rgb(255, 230, 0);
-    padding: 5px;
+    padding: 25px;
+    font-size: 50px;
     text-align: center;
-    text-shadow: whitesmoke;
     font-weight: bolder;
 }
 
-
+.title{
+    text-align: center;
+    margin: 35px 0px 60px 0px;
+    text-decoration: underline;
+    font-size: xx-large;
+    font-family:'Courier New', Courier, monospace;
+}
 
 main {
     background: rgba(151, 148, 127, 0.5);
@@ -29,7 +35,10 @@ p {
 
 img {
     border-radius: 50%;
-    margin-left: 45%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
 }
 
 .aim-section {
@@ -39,6 +48,7 @@ img {
 
 .refrences {
     text-align: center;
+    text-decoration: underline;
 }
 
 .refrence-list {
