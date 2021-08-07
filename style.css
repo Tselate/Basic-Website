@@ -14,12 +14,17 @@ h1 {
     font-weight: bolder;
 }
 
-h2 {
-    background-color: rgb(202, 201, 195);
-}
+
 
 main {
     background: rgba(151, 148, 127, 0.5);
+}
+
+p {
+    font-size: xx-large;
+    text-indent: 50px;
+    line-height: 1.6;
+    margin-bottom: 30px;
 }
 
 img {
@@ -37,5 +42,8 @@ img {
 }
 
 .refrence-list {
-    text-align: center;
+    text-align: left;
+    line-height: 1.9;
+    padding-left: 75px;
+    text-indent: -75px;
 }
